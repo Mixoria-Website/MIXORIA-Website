@@ -1,3 +1,1 @@
-window.addEventListener('scroll',()=>{
-document.querySelector('.product').style.transform=`rotateY(${scrollY}deg)`;
-});
+window.addEventListener('scroll',()=>console.log('MIXORIA 3D Scroll'));
